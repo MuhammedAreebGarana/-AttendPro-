@@ -1,4 +1,4 @@
-# -AttendPro-
+-Advanced Attendance Replication System (AARS)-
 #include <iostream>
 #include <fstream>
 #include <string>
